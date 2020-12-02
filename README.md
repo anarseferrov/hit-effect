@@ -1,2 +1,2 @@
-# hit-effect
-Hit effect
+# Hit effect
+Minecraft block hit effect
