@@ -1,0 +1,15 @@
+#block {
+    cursor: pointer;
+    transition: 250ms ease;
+}
+
+#block:hover {
+    -webkit-filter: brightness(1.2);
+    filter: brightness(1.2);
+}
+
+#block:active {
+    -webkit-filter: invert(33%) sepia(73%) saturate(2209%) hue-rotate(331deg) brightness(108%) contrast(108%);
+    filter: invert(33%) sepia(73%) saturate(2209%) hue-rotate(331deg) brightness(108%) contrast(108%);
+    padding-bottom: 16px;
+}
